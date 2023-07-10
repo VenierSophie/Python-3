@@ -2,6 +2,7 @@ import random
 import inspect
 
 # Programme créer avec un ami pour s'entrainer sur les listes
+# https://docs.python.org/fr/3/tutorial/datastructures.html
 
 testList =[]
 for i in range(0,random.randint(3,6)):
